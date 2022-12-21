@@ -1,2 +1,2 @@
 # machine-learning
-My machine learning studies
+Coursera assignments that I've completed
